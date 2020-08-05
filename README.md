@@ -3,7 +3,7 @@
 I am `ethaniccc`, (pronounced e - than - ick) an **`idot`** 14 year old who is just doing things for fun - mainly Pocketmine plugin development.
 
 ### Favorite Projects
-* **__Mockingbird_** - An anti-cheat made for Pocketmine servers. You can click (here)[https://www.github.com/ethaniccc/Mockingbird] to check it out.
+* **__Mockingbird__** - An anti-cheat made for Pocketmine servers. You can click (here)[https://www.github.com/ethaniccc/Mockingbird] to check it out.
 
 * **__IdotBook / IdotHub__** - A website with a registration, login, and posting system made for fun in my free time. The website is no longer kept up 24/7.
 You can click (here)[https://www.github.com/ethaniccc/IdotHub] to check out the websites source code. The websites database information has been hacked by
