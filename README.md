@@ -9,7 +9,7 @@ I am `ethaniccc`, (pronounced e - than - ick) an **`idot`** 14 year old who is j
 You can click [here](https://www.github.com/ethaniccc/IdotHub) to check out the websites source code. The websites database information has been hacked by
 @mmm545 once but from then I used encryption and he can no longer SQLMap my website :D
 
-* **__IdotBot__** - My seonnd project in Javascript. This was a discord bot made to replicate my friends Discord bot "Peppernoi" that is written in script. This project
+* **__IdotBot__** - My seonnd project in Javascript. This was a discord bot made to replicate my friends Discord bot "Pepperoni" that is written in script. This project
 is very messy and I doubt I'm going to go back to continue it lol. If I ever do continue IdotBot, I would start it from scratch. You can click [here](https://github.com/ethaniccc/IdotBot) to check out the project.
 
 * **__NoToSpanishClass__** - There are actually 2 versions of this, one in PHP and one in Javascript. The one in PHP was put up on a private website that was distributed to my friends
