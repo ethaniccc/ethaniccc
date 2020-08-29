@@ -1,5 +1,7 @@
 **__So apparently this is possible__**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ethaniccc)](https://github.com/anuraghazra/github-readme-stats)
+
 I am `ethaniccc`, (pronounced e - than - ick) an **`idot`** 14 year old who is just doing things for fun - mainly Pocketmine plugin development.
 
 ### Favorite Projects
