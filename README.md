@@ -1,10 +1,11 @@
-**__So apparently this is possible__**
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ethaniccc)](https://github.com/anuraghazra/github-readme-stats)
 
-I am `ethaniccc`, (pronounced e - than - ick) an **`idot`** 14 year old who is just doing things for fun - mainly Pocketmine plugin development.
+I am `ethaniccc`, (pronounced e - thane - ick) a 15 year old **`idot`** who does things for fun - mainly Pocketmine plugin development.
 
 ### Favorite Projects
+
+* **__Esoteric__** - Another anti-cheat made for PocketMine servers. This anticheat was privated and has a variety of checks that makes it worth close-sourcing. A combat-only version of Esoteric (for PM4 - which is currently incomplete), is currently being used on Velvet (velvetpractice.live:19132) and has produces great results - mainly in the PM3 variant.
+
 * **__Mockingbird__** - An anti-cheat made for Pocketmine servers. You can click [here](https://www.github.com/ethaniccc/Mockingbird) to check it out.
 
 * **__IdotBook / IdotHub__** - A website with a registration, login, and posting system made for fun in my free time. The website is no longer kept up 24/7.
