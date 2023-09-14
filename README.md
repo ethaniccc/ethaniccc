@@ -1,10 +1,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ethaniccc)](https://github.com/anuraghazra/github-readme-stats)
 
-I am `ethaniccc`, (pronounced e - thane - ick) a 16 year old **`idot`** who does things for fun - mainly Pocketmine plugin development.
+I am `ethaniccc`, (pronounced e - thane - ick) a 17 year old **`idot`** who does things mostly for fun.
 
 ### Favorite Projects
 
-* **__Oomph__** - An anti-cheat proxy made for Minecraft Bedrock Edition that aims to be performant as possible while having (mostly) full server authority over movement and combat.
+* **__Oomph__** - An anti-cheat proxy made for Minecraft Bedrock Edition that aims to be performant as possible while having full server authority over movement and combat.
 
 * **__Esoteric__** - Another anti-cheat made for PocketMine servers. This anticheat was privated and has a variety of checks that makes it worth close-sourcing. A combat-only version of Esoteric (for PM4 - which is currently incomplete), is currently being used on Velvet (velvetpractice.live:19132) and has produces great results - mainly in the PM3 variant.
 
