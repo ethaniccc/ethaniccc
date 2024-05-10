@@ -14,5 +14,5 @@ You can click [here](https://www.github.com/ethaniccc/IdotHub) to check out the 
 is very messy and I'm never touching it again. You can click [here](https://github.com/ethaniccc/IdotBot) to check out the project.
 
 * **__NoToSpanishClass__** - There are actually 2 versions of this, one in PHP and one in Javascript. The one in PHP was put up on a private website that was distributed to my friends
-so we didn't have to go through the hassle of translating spanish stories our spanish teacher gave us online (the website prevented us from copy and pasting and would do somethibng weird if we tried to use Inspect).
+so we didn't have to go through the hassle of translating spanish stories our spanish teacher gave us online (the website prevented us from copy and pasting and would do something weird if we tried to use Inspect).
 You can click [here](https://github.com/ethaniccc/no-to-spanish-class) to check out the version in PHP, or you can click [here](https://github.com/ethaniccc/no-to-spanish-class-js) to check out the version in Javascript.
