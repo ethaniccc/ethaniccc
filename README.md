@@ -1,10 +1,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ethaniccc)](https://github.com/anuraghazra/github-readme-stats)
 
-I am `ethaniccc`, (pronounced e - thane - ick) a 18 year old **`idot`** who does things mostly for fun.
+I am `ethaniccc`, (pronounced e - thane - ick) a 19 year old **`idot`** who does things mostly for fun.
 
-### Favorite Projects
+### Some Projects
 
-* **__Oomph__** - An anti-cheat proxy made for Minecraft Bedrock Edition that aims to be performant as possible while having full server authority over player actions.
+* **__Oomph__** - An anti-cheat proxy made for Minecraft Bedrock Edition that aims to be performant as possible while having full server authority over player actions. As of April 6th, 2025, I have open-sourced the project and will be working on a different route of monetization for it. You can view the source [here](https://github.com/oomph-ac/oomph).
+
+* **__EStatz__** - Basic recieve-only UDP server that is intended for non-essential telemetry. You can view the source code [here](https://github.com/ethaniccc/estatz)
 
 * **__ELOG__** - A logging library made in Golang that aims to be as performant as possible while also being able to have encrypted logs on storage. Probably will use with Oomph in the near future. You can click [here](https://github.com/ethaniccc/elog) to see it's source.
 
