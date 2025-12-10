@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ethaniccc)](https://github.com/anuraghazra/github-readme-stats)
 
-I am `ethaniccc`, (pronounced e - thane - ick) a 19 year old **`idot`** who does things mostly for fun.
+I am `ethaniccc`, (pronounced e - than - ick) a 19 year old **`idot`** who does things mostly for fun.
 
 ### Some Projects
 
